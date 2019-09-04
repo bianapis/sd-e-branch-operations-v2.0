@@ -1,0 +1,28 @@
+{
+  "inboundRetrieveActionTaskReference" : "IRATR798182",
+  "inboundRetrieveActionTaskRecord" : {},
+  "inboundInstanceReport" : {
+    "inboundInstanceReportRecord" : {},
+    "inboundInstanceReport" : {},
+    "inboundInstanceReportType" : "inboundInstanceReportType",
+    "inboundInstanceReportParameters" : "inboundInstanceReportParameters"
+  },
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchServiceSessionStatistics" : "eBranchServiceSessionStatistics",
+    "eBranchOperationsServiceMenu" : "eBranchOperationsServiceMenu"
+  },
+  "inboundRetrieveActionResponse" : "inboundRetrieveActionResponse",
+  "inboundInstanceAnalysis" : {
+    "inboundInstanceAnalysisReport" : {},
+    "inboundInstanceAnalysisRecord" : {},
+    "inboundInstanceAnalysisParameters" : "inboundInstanceAnalysisParameters",
+    "inboundInstanceAnalysisReportType" : "inboundInstanceAnalysisReportType"
+  },
+  "inboundInstanceRecord" : {
+    "eBranchInboundConnectionDuration" : "eBranchInboundConnectionDuration",
+    "eBranchDevicePropertyValue" : "eBranchDevicePropertyValue",
+    "eBranchInboundConnectionContactRecordReference" : "725475",
+    "eBranchDeviceReference" : "778655",
+    "eBranchInboundConnectionStartTime" : "09-22-2018"
+  }
+}

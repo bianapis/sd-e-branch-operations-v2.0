@@ -1,0 +1,30 @@
+{
+  "eBranchChannelOperatingSessionRetrieveActionTaskRecord" : {},
+  "eBranchChannelOperatingSessionInstanceAnalysis" : {
+    "eBranchChannelOperatingSessionInstanceAnalysisReport" : {},
+    "eBranchChannelOperatingSessionInstanceAnalysisData" : "eBranchChannelOperatingSessionInstanceAnalysisData",
+    "eBranchChannelOperatingSessionInstanceAnalysisReportType" : "eBranchChannelOperatingSessionInstanceAnalysisReportType"
+  },
+  "eBranchChannelOperatingSessionRetrieveActionResponse" : "eBranchChannelOperatingSessionRetrieveActionResponse",
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchProductionIssueRecord" : {
+      "employeeBusinessUnitReference" : "705309",
+      "customerContactRecordReference" : "762416",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueDescription" : "productionIssueDescription"
+    },
+    "eBranchServiceSessionStatistics" : "eBranchServiceSessionStatistics",
+    "eBranchServiceSessionReport" : {},
+    "eBranchServiceSessionReportType" : "eBranchServiceSessionReportType",
+    "eBranchOperationsServiceMenu" : "eBranchOperationsServiceMenu"
+  },
+  "eBranchChannelOperatingSessionInstanceReportRecord" : {
+    "eBranchChannelOperatingSessionInstanceReportData" : "eBranchChannelOperatingSessionInstanceReportData",
+    "eBranchChannelOperatingSessionInstanceReport" : {},
+    "eBranchChannelOperatingSessionInstanceReportType" : "eBranchChannelOperatingSessionInstanceReportType"
+  },
+  "eBranchChannelOperatingSessionRetrieveActionTaskReference" : "ECOSRATR799125"
+}

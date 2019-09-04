@@ -1,0 +1,13 @@
+{
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchServiceSessionStatistics" : "eBranchServiceSessionStatistics"
+  },
+  "inboundInitiateActionRecord" : {},
+  "inboundInstanceStatus" : "inboundInstanceStatus",
+  "inboundInitiateActionReference" : "IIAR776287",
+  "inboundInstanceReference" : "IIR771793",
+  "inboundInstanceRecord" : {
+    "eBranchInboundConnectionDuration" : "eBranchInboundConnectionDuration",
+    "eBranchInboundConnectionStartTime" : "09-22-2018"
+  }
+}

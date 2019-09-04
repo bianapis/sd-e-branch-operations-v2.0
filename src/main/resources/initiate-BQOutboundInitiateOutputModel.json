@@ -1,0 +1,14 @@
+{
+  "outboundInitiateActionReference" : "OIAR797836",
+  "outboundInstanceRecord" : {
+    "customerContactDialogueRecord" : {},
+    "eBranchOutboundConnectionDuration" : "eBranchOutboundConnectionDuration",
+    "eBranchOutboundConnectionStartTime" : "09-22-2018"
+  },
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchServiceSessionStatistics" : "eBranchServiceSessionStatistics"
+  },
+  "outboundInitiateActionRecord" : {},
+  "outboundInstanceReference" : "OIR735963",
+  "outboundInstanceStatus" : "outboundInstanceStatus"
+}

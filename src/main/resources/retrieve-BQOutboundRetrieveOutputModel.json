@@ -1,0 +1,28 @@
+{
+  "outboundInstanceReport" : {
+    "outboundInstanceReport" : {},
+    "outboundInstanceReportParameters" : "outboundInstanceReportParameters",
+    "outboundInstanceReportType" : "outboundInstanceReportType",
+    "outboundInstanceReportRecord" : {}
+  },
+  "outboundInstanceRecord" : {
+    "employeeBusinessUnitReference" : "784114",
+    "customerContactRecordReference" : "754549",
+    "customerContactDialogueRecord" : {},
+    "eBranchCustomerDeviceReference" : "758830",
+    "eBranchOutboundConnectionDuration" : "eBranchOutboundConnectionDuration",
+    "eBranchOutboundConnectionStartTime" : "09-22-2018"
+  },
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchServiceSessionStatistics" : "eBranchServiceSessionStatistics"
+  },
+  "outboundInstanceAnalysis" : {
+    "outboundInstanceAnalysisReport" : {},
+    "outboundInstanceAnalysisReportType" : "outboundInstanceAnalysisReportType",
+    "outboundInstanceAnalysisRecord" : {},
+    "outboundInstanceAnalysisParameters" : "outboundInstanceAnalysisParameters"
+  },
+  "outboundRetrieveActionTaskReference" : "ORATR742043",
+  "outboundRetrieveActionTaskRecord" : {},
+  "outboundRetrieveActionResponse" : "outboundRetrieveActionResponse"
+}

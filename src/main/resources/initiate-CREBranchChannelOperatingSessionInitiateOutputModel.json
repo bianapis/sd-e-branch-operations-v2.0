@@ -1,0 +1,17 @@
+{
+  "eBranchChannelOperatingSessionInstanceStatus" : "eBranchChannelOperatingSessionInstanceStatus",
+  "eBranchChannelOperatingSessionInitiateActionReference" : "ECOSIAR772628",
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchProductionIssueRecord" : {
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis"
+    },
+    "eBranchServiceSessionStatistics" : "eBranchServiceSessionStatistics",
+    "eBranchServiceSessionReport" : {},
+    "eBranchServiceSessionReportType" : "eBranchServiceSessionReportType",
+    "eBranchOperationsServiceMenu" : "eBranchOperationsServiceMenu"
+  },
+  "eBranchChannelOperatingSessionInstanceReference" : "ECOSIR794888",
+  "eBranchChannelOperatingSessionInitiateActionRecord" : {}
+}

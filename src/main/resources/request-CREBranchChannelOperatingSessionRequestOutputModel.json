@@ -1,0 +1,17 @@
+{
+  "eBranchChannelOperatingSessionRequestActionTaskReference" : "ECOSRATR776477",
+  "requestRecordReference" : "RRR738861",
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchProductionIssueRecord" : {
+      "employeeBusinessUnitReference" : "785648",
+      "customerContactRecordReference" : "784120",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueDescription" : "productionIssueDescription"
+    }
+  },
+  "eBranchChannelOperatingSessionRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

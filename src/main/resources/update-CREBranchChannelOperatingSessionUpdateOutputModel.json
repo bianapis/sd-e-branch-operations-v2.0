@@ -1,0 +1,20 @@
+{
+  "eBranchChannelOperatingSessionUpdateActionTaskRecord" : {},
+  "eBranchChannelOperatingSessionUpdateActionTaskReference" : "ECOSUATR717583",
+  "eBranchChannelOperatingSessionInstanceRecord" : {
+    "eBranchProductionIssueRecord" : {
+      "employeeBusinessUnitReference" : "767362",
+      "customerContactRecordReference" : "779801",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueDescription" : "productionIssueDescription"
+    },
+    "eBranchServiceSessionStatistics" : "eBranchServiceSessionStatistics",
+    "eBranchServiceSessionReport" : {},
+    "eBranchServiceSessionReportType" : "eBranchServiceSessionReportType",
+    "eBranchOperationsServiceMenu" : "eBranchOperationsServiceMenu"
+  },
+  "updateResponseRecord" : {}
+}
